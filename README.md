@@ -9,7 +9,8 @@
     ![在这里插入图片描述](/qrcode.jpg)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-csdn：[](https://blog.csdn.net/muaamua/article/details/136084094)
+
+csdn：[概率论与数理统计实验 附源码及实验报告 可打包为exe](https://blog.csdn.net/muaamua/article/details/136084094)
 
 <!---
 cxlhyx/cxlhyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
